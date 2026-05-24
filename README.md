@@ -18,6 +18,7 @@ Interactive retail analytics dashboard developed using Power BI.
 
 ## Dashboard Preview
 
+
 ![Dashboard](dashboard_screenshot.png)
 
 ## Dataset Files
